@@ -1,0 +1,4 @@
+﻿  Main.cpp
+d:\proiecteprogramare\cpp\particlesgenerator\particlesgenerator\main.cpp(73): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+  ParticlesGenerator.vcxproj -> D:\ProiecteProgramare\CPP\ParticlesGenerator\Debug\ParticlesGenerator.exe
+  ParticlesGenerator.vcxproj -> D:\ProiecteProgramare\CPP\ParticlesGenerator\Debug\ParticlesGenerator.pdb (Partial PDB)
